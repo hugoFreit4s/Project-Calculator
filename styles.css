@@ -89,6 +89,10 @@ button {
     padding: 15px;
 }
 
+.btn btn-warning{
+    color: black;
+}
+
 .row0 {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
